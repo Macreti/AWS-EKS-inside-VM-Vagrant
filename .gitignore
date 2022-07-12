@@ -1,2 +1,3 @@
-.vagrant
+.vagrant/
 setup-project.sh
+.setup-project.sh.swp
